@@ -1,4 +1,4 @@
-# Statistic Global Video Game Sales
+# Global Video Game Sales
 Skills: Python (Numpy, Pandas, Seaborn)
 
 Data Source: https://www.kaggle.com/datasets/thedevastator/global-video-game-sales/data
