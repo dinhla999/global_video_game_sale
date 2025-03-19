@@ -2,6 +2,11 @@
 Skills: Python (Numpy, Pandas, Seaborn)
 
 Data Source: https://www.kaggle.com/datasets/thedevastator/global-video-game-sales/data
+This dataset, sourced from vgchartz.com, offers a wealth of insights into the dynamics between platform and genre for the top 100 video games worldwide. Observe which platforms are driving global sales, what genres have been most successful in different regions across the world, and how both of these factors have changed over time. Analyze this data to inform your understanding of the gaming industry and discover trends propelling game developers to success!
+
+# Research Ideas
+- Probing the relationship between video game expenditure and user satisfaction to understand consumer behavior.
+- Examining the most popular platform-genre combinations in the top 100 games to inform game development decisions.
 
 ![{BB6583AC-C191-4A93-91CC-E90781E5AD2F}](https://github.com/user-attachments/assets/dd524a83-fa14-458c-97e9-47b5b66e6fd0)
 
